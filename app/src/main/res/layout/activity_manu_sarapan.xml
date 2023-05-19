@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ManuSarapan">
+
+    <TextView
+        android:id="@+id/sarapan"
+        android:layout_width="278dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/shape1"
+        android:backgroundTint="#F2A154"
+        android:gravity="center"
+        android:text="MENU SARAPAN"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/nasgor"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/nasigoreng"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sarapan"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtnasgor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Nasi Goreng"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/nasgor"
+        app:layout_constraintStart_toStartOf="@+id/nasgor"
+        app:layout_constraintTop_toBottomOf="@+id/nasgor"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/telur"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/telur"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sarapan"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txttelur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Telur Mata Sapi"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/telur"
+        app:layout_constraintStart_toStartOf="@+id/telur"
+        app:layout_constraintTop_toBottomOf="@+id/telur"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/oatmeal"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/oat"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtnasgor"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtoatmeel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Oatmeal"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/oatmeal"
+        app:layout_constraintStart_toStartOf="@+id/oatmeal"
+        app:layout_constraintTop_toBottomOf="@+id/oatmeal"
+        tools:ignore="TextSizeCheck,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/bubur"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/buryam"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txttelur"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtbubur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Bubur Ayam"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/bubur"
+        app:layout_constraintStart_toStartOf="@+id/bubur"
+        app:layout_constraintTop_toBottomOf="@+id/bubur"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/roti"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/roti"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtoatmeel"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtroti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Roti Panggang"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/roti"
+        app:layout_constraintStart_toStartOf="@+id/roti"
+        app:layout_constraintTop_toBottomOf="@+id/roti"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/lontong"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/lontong"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbubur"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtlontong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Lontong Sayur"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/lontong"
+        app:layout_constraintStart_toStartOf="@+id/lontong"
+        app:layout_constraintTop_toBottomOf="@+id/lontong"
+        tools:ignore="TextSizeCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

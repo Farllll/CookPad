@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuSnack">
+
+    <TextView
+        android:id="@+id/snack"
+        android:layout_width="278dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/shape1"
+        android:backgroundTint="#F2A154"
+        android:gravity="center"
+        android:text="MENU SNACK"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/potato"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/potato"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/snack"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtpotato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Potato Cheese Balls"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/potato"
+        app:layout_constraintStart_toStartOf="@+id/potato"
+        app:layout_constraintTop_toBottomOf="@+id/potato"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/pretzel"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/pretzel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/snack"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtpretzel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Pretzel Wrapped"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/pretzel"
+        app:layout_constraintStart_toStartOf="@+id/pretzel"
+        app:layout_constraintTop_toBottomOf="@+id/pretzel"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/sticks"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/sticks"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtpotato"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtsticks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Mozzarella Sticks"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/sticks"
+        app:layout_constraintStart_toStartOf="@+id/sticks"
+        app:layout_constraintTop_toBottomOf="@+id/sticks"
+        tools:ignore="TextSizeCheck,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/onion"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/onion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtpretzel"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtonion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Onion Rings"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/onion"
+        app:layout_constraintStart_toStartOf="@+id/onion"
+        app:layout_constraintTop_toBottomOf="@+id/onion"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/waffle"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/waffle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtsticks"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtwaffle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Waffle Fries"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/waffle"
+        app:layout_constraintStart_toStartOf="@+id/waffle"
+        app:layout_constraintTop_toBottomOf="@+id/waffle"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/popcorn"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/popcorn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtonion"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtpopcorn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Caramel Popcorn"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/popcorn"
+        app:layout_constraintStart_toStartOf="@+id/popcorn"
+        app:layout_constraintTop_toBottomOf="@+id/popcorn"
+        tools:ignore="TextSizeCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

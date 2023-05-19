@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ManuDessert">
+
+
+    <TextView
+        android:id="@+id/dessert"
+        android:layout_width="278dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/shape1"
+        android:backgroundTint="#F2A154"
+        android:gravity="center"
+        android:text="MENU DESSERT"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/pancakes"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="45dp"
+        app:srcCompat="@drawable/pancakes"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dessert"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtpancakes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Fluffy Soufflé Pancakes"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/pancakes"
+        app:layout_constraintStart_toStartOf="@+id/pancakes"
+        app:layout_constraintTop_toBottomOf="@+id/pancakes"
+        tools:ignore="TextSizeCheck" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/brownies"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="40dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/brownies"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dessert"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtbrownies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Nutella Brownies"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/brownies"
+        app:layout_constraintStart_toStartOf="@+id/brownies"
+        app:layout_constraintTop_toBottomOf="@+id/brownies"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/sando"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/sando"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtpancakes"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtsando"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Strawberry Sando"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/sando"
+        app:layout_constraintStart_toStartOf="@+id/sando"
+        app:layout_constraintTop_toBottomOf="@+id/sando"
+        tools:ignore="TextSizeCheck,TextSizeCheck" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/cookies"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/cookies"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbrownies"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtcookies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chocolate Chip Cookies"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/cookies"
+        app:layout_constraintStart_toStartOf="@+id/cookies"
+        app:layout_constraintTop_toBottomOf="@+id/cookies"
+        tools:ignore="TextSizeCheck" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/pudding"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/pudding"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtsando"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtpudding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Custard Pudding"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/pudding"
+        app:layout_constraintStart_toStartOf="@+id/pudding"
+        app:layout_constraintTop_toBottomOf="@+id/pudding"
+        tools:ignore="TextSizeCheck" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/cheese"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        app:shapeAppearanceOverlay="@style/RoundCorner"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/cheese"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtcookies"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtcheese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Mini Cheesecakes"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/cheese"
+        app:layout_constraintStart_toStartOf="@+id/cheese"
+        app:layout_constraintTop_toBottomOf="@+id/cheese"
+        tools:ignore="TextSizeCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

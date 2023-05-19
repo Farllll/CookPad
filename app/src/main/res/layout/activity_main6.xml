@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:navigationBarColor="?attr/navigationColor"
+    tools:context=".MainActivity6">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        app:layout_constraintBottom_toTopOf="@+id/navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <com.etebarian.meowbottomnavigation.MeowBottomNavigation
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:mbn_backgroundBottomColor="#F2A154"
+        app:mbn_circleColor="#ffffff"
+        app:mbn_countBackgroundColor="#000000"
+        app:mbn_countTextColor="#ffffff"
+        app:mbn_defaultIconColor="#000000"
+        app:mbn_rippleColor="#2f424242"
+        app:mbn_selectedIconColor="#000000"
+        app:mbn_shadowColor="#1f212121" />
+
+</RelativeLayout>

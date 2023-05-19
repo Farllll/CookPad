@@ -1,0 +1,797 @@
+<resources>
+    <string name="app_name">CookPad</string>
+
+    <string name="news_a">Sekilas memasak terlihat gampang, tetapi sebenarnya butuh trik supaya hasilnya maksimal. Berikut 5 tips memasak yang perlu kamu tahu.
+            Memasak memang terlihat sederhana dan siapa pun bisa melakukannya. Tetapi, ternyata untuk menghasilkan makanan yang lezatnya sempurna dibutuhkan beberapa trik dan pengetahuan untuk mengolah makanan secara tepat.
+            Setiap orang sangat wajar jika melakukan kesalahan saat memasak. Untuk kamu yang baru ingin belajar masak atau yang sudah berpengalaman memasak sekalipun, perhatikan kembali cara memasak yang biasanya kamu lakukan.
+            Mungkin saja, beberapa kesalahan saat memasak kamu lakukan tanpa disadari. Fatalnya, beberapa kesalahan memasak bisa merusak kualitas bahan makanan.
+            Berikut ini 5 tips memasak agar hasilnya maksimal tanpa merusak makanan, menurut Readers Digest (8/1):\t
+            (1) Tidak Memasak Sayuran Terlalu Lama
+            Sayuran yang terlalu matang akan kehilangan sebagian kandungan vitaminnya. Sayuran yang terlalu matang juga akan lebih kering dan lembek. Ada cara yang bisa dilakukan untuk mengatasi hal ini. Rendam sayuran pada air es kemudian hangatkan kembali secara perlahan.
+            (2) Membersihkan Alat Masak
+            Alat masak yang bersih menjadi kunci cita rasa makanan yang lezat. Memastikan alat masak sudah bersih sepenuhnya akan membuat rasa masakan tidak bercampur dengan rasa lainnya.
+            (3) Tidak Membiarkan Makanan Gosong
+            Masakan akan matang dengan rasa dan warna yang sesuai. Kotoran yang masih menempel pada alat masak akan memengaruhi penampilan dan rasa masakan.
+            (4) Mengikuti Resep
+            Saat membuat kue, kamu disarankan mengikuti resepnya dengan sangat baik. Beberapa bahan harus dimasukan sesuai urutannya agar tercampur dan berfungsi dengan baik. Saat membuat kue, memasukan bahan dengan urutan yang kurang tepat akan berpengaruh cukup besar. Misalnya kue tidak mengembang atau ada bahan yang menggumpal.
+            (5) Pastikan Mencicipi Masakan
+            Mencicipi masakan menjadi langkah terakhir yang paling krusial. Untuk memastikan kematangan bahan dan kesesuaian rasa, kuncinya adalah mencicipi.</string>
+
+    <string name="news_b">Diet sering kali dikaitkan dengan penurunan berat badan. Itulah kenapa banyak orang lebih fokus membatasi asupan makanan dan melakukan olahraga dengan intensitas tinggi demi membakar lemak.
+            Padahal, tujuan utama diet adalah untuk mendapatkan tubuh yang ideal dan sehat. Tak hanya membatasi jumlah makanan yang masuk ke tubuh, ada beberapa makanan untuk diet yang juga wajib dikonsumsi. Namun, bagaimana memilih makanan untuk diet yang sehat?
+            Tentunya makanan tersebut harus memiliki kandungan karbohidrat, serat, protein, vitamin, dan lemak sehat. Ini dia beberapa rekomendasi makanan diet yang patut Anda coba!
+            8 Rekomendasi Makanan untuk Diet Sehat
+            1. Dada
+            ayam Tidak semua bagian ayam mengandung tinggi lemak, contohnya bagian dada ayam. Dibandingkan bagian paha, dada memiliki kandungan lemak jenuh yang lebih rendah. Di sisi lain, bagian ini justru mengandung zat besi dan protein yang tinggi. Anda bisa mengolah dada ayam dengan cara dipanggang atau direbus dan hindari menggorengnya supaya tidak merusak kandungan baiknya.
+            2. Telur
+            Selain dada ayam, telur juga bisa menjadi pilihan makanan untuk diet. Tak hanya ramah di kantong, telur juga kaya nutrisi seperti protein, vitamin D, dan kolin. Bila ingin lebih sehat lagi, Anda bisa mengonsumsi putih telurnya saja. Umumnya, satu butir putih telur mengandung 406 gram protein sebagai sumber energi. Anda bisa mengonsumsi telur dengan cara merebusnya untuk mendapatkan kandungan terbaiknya.
+            3. Daging sapi tanpa lemak
+            Masih banyak yang menganggap bahwa daging merupakan makanan yang tak bisa dikonsumsi saat diet. Padahal, ada bagian daging yang tidak mengandung banyak lemak. Bagian ini biasanya terdapat di sekitar leher atau has luar. Di dalam daging tanpa lemak ini terkandung protein, zat besi, vitamin, mineral, zinc, dan vitamin B12. Untuk menikmatinya, Anda bisa memasak daging sapi dengan cara direbus, dikukus, atau dipanggang tanpa lemak di atas pan anti lengket.
+            4. Kentang
+            Diet bukan berarti menghilangkan sumber karbohidrat. Anda hanya perlu mengganti sumber karbohidrat menjadi lebih sehat, seperti kentang. Makanan untuk diet satu ini mengandung kalium yang menjaga tekanan darah tetap stabil, namun kalorinya pun relatif rendah. Selain itu, kentang juga mengandung vitamin B1, vitamin B9, vitamin C, dan vitamin B6. Olahan kentang dengan cara direbus atau dikukus agar tidak menghilangkan gizinya.
+            5. Kacang-kacangan
+            Kelompok kacang-kacangan juga termasuk makanan untuk diet yang bagus. Dalam kacang-kacangan terdapat aneka vitamin dan mineral, bahkan zat besi dan folat yang baik untuk mencegah anemia. Selain itu, kacang-kacangan juga tinggi protein dan serat sehingga membuat Anda kenyang lebih lama. Anda bisa memilih kacang kedelai, kacang tanah, atau kacang merah untuk variasi masakan.
+            6. Brokoli
+            Sayuran hijau satu ini kerap kali dijauhi anak-anak. Padahal, brokoli mempunyai banyak manfaat baik, khususnya untuk Anda yang sedang menjalani program diet. Di dalamnya terdapat vitamin C, karbohidrat yang baik, juga serat. Manfaat mengonsumsi brokoli saat diet dapat membantu menjaga kadar gula darah lebih stabil dan melancarkan pencernaan.
+            7. Buah alpukat
+            Alpukat sering kali disebut sebagai buah yang dapat menggemukkan badan karena kaya lemak. Padahal, lemak yang terkandung dalam alpukat adalah lemak tak jenuh yang justru baik untuk menurunkan kolesterol. Alpukat juga cocok dijadikan makanan untuk diet karena bisa mengecilkan lingkar perut dan menahan lapar.
+            8. Gandum
+            Makanan untuk diet yang tak kalah baik adalah gandum karena tingginya serat yang terkandung di dalamnya. Dengan mengganti sumber karbohidrat menjadi gandum, Anda akan kenyang lebih lama sehingga mencegah dari makan berlebihan. Sebaiknya, pilihlah gandum utuh karena gandum jenis ini tidak dicampur bahan-bahan lainnya. Mulailah mengonsumsi gandum sebagai menu sarapan untuk memulai diet yang sehat.</string>
+
+    <string name="food_a">
+        Lontong :
+
+        Bahan-bahan:
+        ●	2 cup beras
+        ●	Daun pisang secukupnya
+        ●	Secubit garam
+        Alat:
+        ●	Papan lontong atau alat pembungkus lontong
+        Cara membuat:
+        1.	Cuci beras dengan air bersih, lalu tiriskan.
+        2.	Rendam beras dalam air bersih selama sekitar 2 jam.
+        3.	Setelah direndam, tiriskan beras dari air.
+        4.	Siapkan panci besar dan isi dengan air secukupnya. Didihkan air.
+        5.	Sambil menunggu air mendidih, ambil selembar daun pisang dan potong menjadi lembaran yang cukup besar untuk membungkus lontong.
+        6.	Ambil sejumlah beras yang telah direndam dan letakkan di atas selembar daun pisang.
+        7.	Bentuk beras dalam daun pisang menjadi silinder atau bungkus rapi dengan cara membentuk ujung-ujung daun pisang menjadi segitiga dan melipatnya.
+        8.	Ikat bagian ujung lontong dengan menggunakan tusuk gigi atau tali rafia agar lontong tidak terbuka saat dimasak.
+        9.	Setelah semua lontong dibungkus, masukkan lontong ke dalam air yang sudah mendidih. Pastikan lontong sepenuhnya terendam dalam air.
+        10.	Rebus lontong selama 2-3 jam dengan api sedang hingga matang. Jika air berkurang, tambahkan air panas sedikit demi sedikit agar lontong tetap terendam.
+        11.	Setelah matang, angkat lontong dari air dan biarkan dingin sejenak sebelum membuka bungkus daun pisang.
+        12.	Setelah dingin, buka bungkus daun pisang dan potong lontong menjadi potongan-potongan sesuai dengan keinginan.
+    </string>
+    <string name="food_b">
+        Roti :
+
+        Bahan-bahan:
+        ●	500 gram tepung terigu
+        ●	2 sendok makan gula
+        ●	2 sendok teh ragi instan
+        ●	1 sendok teh garam
+        ●	250 ml air hangat
+        ●	3 sendok makan minyak sayur
+        ●	1 butir telur (opsional)
+        Cara membuat:
+        1.	Dalam mangkuk besar, campurkan tepung terigu, gula, ragi instan, dan garam. Aduk rata.
+        2.	Tambahkan air hangat secara bertahap sambil terus mengaduk menggunakan sendok atau mixer dengan kecepatan rendah.
+        3.	Jika menggunakan telur, pecahkan telur ke dalam mangkuk dan aduk hingga tercampur dengan baik.
+        4.	Tambahkan minyak sayur dan terus aduk hingga adonan terbentuk.
+        5.	Pindahkan adonan ke permukaan datar yang telah ditaburi tepung terigu. Uleni adonan dengan tangan selama sekitar 10-15 menit hingga adonan menjadi elastis dan tidak lengket.
+        6.	Letakkan adonan dalam mangkuk bersih dan olesi dengan sedikit minyak sayur. Tutup mangkuk dengan kain bersih atau plastik wrap. Biarkan adonan fermentasi selama sekitar 1 jam hingga mengembang dua kali lipat.
+        7.	Setelah adonan mengembang, kempiskan adonan dengan cara memukul-mukulnya atau tekan-tekan adonan secara lembut.
+        8.	Bagi adonan menjadi beberapa bagian sesuai dengan ukuran roti yang diinginkan. Bentuk masing-masing bagian adonan menjadi bulat atau sesuai dengan preferensi Anda.
+        9.	Letakkan adonan roti dalam loyang yang telah diolesi dengan sedikit minyak atau dilapisi kertas roti. Pastikan memberikan jarak yang cukup antara masing-masing roti.
+        10.	Tutup loyang dengan kain bersih atau plastik wrap dan biarkan adonan roti mengembang kembali selama sekitar 30-45 menit.
+        11.	Sementara itu, panaskan oven pada suhu 180 derajat Celsius.
+        12.	Setelah adonan roti mengembang, panggang roti dalam oven yang telah dipanaskan selama sekitar 20-25 menit atau hingga roti berwarna keemasan dan matang.
+        13.	Angkat roti dari oven dan biarkan dingin sebentar sebelum dipotong atau disajikan.
+    </string>
+    <string name="food_c">Oatmeal sudah tidak asing di kalangan masyarakat yang sedang semangat menjalankan diet. Dari segi pola makan, sarapan diyakini sangat berpengaruh pada kesehatan dan oatmeal cukup populer sebagai salah satu makanan sehat untuk sarapan. Selain untuk diet, oatmeal juga memilih segudang manfaat yang baik untuk tubuh
+    Jadi cara membuat oatmeal beragam sesuai dengan tambahan yang diinginkan. Selain praktis, oatmeal menjadi pilihan saat sarapan karena juga memiliki berbagai manfaat untuk kesehatan. Jadi kamu bisa menjadikan cara membuat oatmeal ini menjadi referensi, salah satunya yaitu Oatmeal Yoghurt. kamu bisa membuat oatmeal yoghurt yang tidak kalah enak. Membuat oatmeal yoghurt juga tidak sulit.
+
+        Bahan:
+        - 4 sdm oatmeal
+
+        - 4 sdm air panas
+
+        - 100 ml susu cair
+
+        - 3 sdm yogurt
+
+        - buah-buahan sesuai selera
+
+        Cara membuat oatmeal yoghurt:
+        - Campurkan yogurt dan air panas hingga empuk. Atau bisa juga dimasak sebentar, jika menggunakan oat utuh
+
+        - Tuang susu dan yogurt ke dalam oatmeal
+
+        - Aduk rata, tambahkan buah-buahan
+
+        - Oatmeal yogurt siap dinikmati untuk sarapan pagi</string>
+
+    <string name="food_d">
+    Telur mata sapi :
+
+    Bahan-bahan:
+    ●	2 butir telur
+    ●	2 sendok makan minyak goreng
+    ●	Garam secukupnya
+    ●	Merica bubuk secukupnya
+    ●	Bahan tambahan sesuai selera (contoh: saus sambal, saus tomat, kecap, bawang goreng, dll.)
+    Cara membuat:
+    1.	Panaskan minyak goreng dalam wajan anti lengket dengan api sedang.
+    2.	Pecahkan telur satu per satu ke dalam mangkuk kecil. Pastikan kuning telur tetap utuh.
+    3.	Setelah minyak panas, tuangkan telur ke dalam wajan dengan hati-hati, satu per satu. Pastikan jarak antara telur cukup jauh agar tidak meleleh menjadi satu.
+    4.	Biarkan telur terus menggoreng dengan api sedang hingga putih telur matang dan kuning telur masih setengah matang.
+    5.	Bubuhi telur dengan garam dan merica secukupnya sesuai dengan selera Anda.
+    6.	Dengan menggunakan sendok atau spatula, siram minyak panas di atas kuning telur agar matang merata tanpa membalik telur. Anda juga dapat menambahkan sedikit minyak pada pinggiran kuning telur yang belum matang.
+    7.	Masak selama beberapa saat hingga kuning telur cukup matang sesuai selera Anda. Jika Anda menginginkan kuning telur yang lebih matang, tutup wajan dengan penutup selama beberapa saat.
+    8.	Angkat telur mata sapi dari wajan dengan hati-hati menggunakan spatula.
+    9.	Sajikan telur mata sapi dengan tambahan bahan sesuai selera, seperti saus sambal, saus tomat, kecap, bawang goreng, atau irisan daun bawang sebagai hiasan.
+    </string>
+    <string name="food_e">
+        mozarella stick :
+
+        Bahan-bahan:
+        ●	200 gram keju mozzarella, potong-potong menjadi batang panjang
+        ●	1/2 cup tepung terigu
+        ●	1/2 cup tepung roti
+        ●	1 sendok teh bubuk paprika
+        ●	1/2 sendok teh bubuk bawang putih
+        ●	2 butir telur, kocok lepas
+        ●	Minyak sayur, untuk menggoreng
+        Cara membuat:
+        1.	Siapkan tiga wadah. Satu untuk tepung terigu, satu untuk telur kocok lepas, dan satu lagi untuk campuran tepung roti, bubuk paprika, dan bubuk bawang putih.
+        2.	Ambil sepotong keju mozzarella dan gulingkan ke dalam tepung terigu hingga tertutup rata.
+        3.	Setelah itu, celupkan keju mozzarella yang sudah ditaburi tepung terigu ke dalam telur kocok lepas, pastikan keju terbalut dengan telur secara merata.
+        4.	Kemudian, gulingkan keju mozzarella yang sudah terbalut telur ke dalam campuran tepung roti, bubuk paprika, dan bubuk bawang putih. Pastikan keju terbalut dengan tepung roti secara merata.
+        5.	Ulangi langkah 2-4 untuk sisa keju mozzarella.
+        6.	Panaskan minyak sayur dalam wajan dengan api sedang.
+        7.	Goreng mozzarella stick dalam minyak panas hingga keju meleleh dan kulit tepungnya berwarna kecokelatan. Pastikan untuk membaliknya agar matang merata.
+        8.	Angkat mozzarella stick dari minyak dan tiriskan pada tisu dapur untuk menghilangkan kelebihan minyak.
+        9.	Sajikan mozzarella stick hangat dengan saus marinara, saus BBQ, atau saus favorit Anda.
+
+    </string>
+    <string name="food_f">
+        fluffy souffle pancakes
+
+        Bahan-bahan:
+        ●	3 butir telur, pisahkan putih dan kuning telur
+        ●	1/4 cup gula pasir
+        ●	1/2 cup susu cair
+        ●	1/2 sendok teh ekstrak vanila
+        ●	3/4 cup tepung terigu
+        ●	1 sendok teh baking powder
+        ●	1/4 sendok teh garam
+        ●	Mentega atau minyak sayur, untuk melumuri wajan
+        Cara membuat:
+        1.	Dalam mangkuk besar, kocok kuning telur, gula pasir, susu cair, dan ekstrak vanila hingga tercampur rata.
+        2.	Dalam wadah terpisah, campur tepung terigu, baking powder, dan garam. Ayak campuran tepung ke dalam adonan telur dan aduk rata. Jangan terlalu banyak mengaduk agar adonan tidak menjadi terlalu padat.
+        3.	Dalam mangkuk terpisah, kocok putih telur dengan mixer listrik hingga berbusa. Tambahkan sedikit gula pasir dan terus kocok hingga putih telur mengembang dan membentuk puncak yang lembut.
+        4.	Perlahan-lahan, masukkan putih telur yang sudah dikocok ke dalam adonan tepung dan telur. Gunakan spatula untuk melipat adonan hingga rata, dengan gerakan dari bawah ke atas. Pastikan untuk tidak mengaduk terlalu keras agar adonan tetap ringan dan berudara.
+        5.	Panaskan wajan anti lengket dengan api sedang. Lumuri permukaan wajan dengan mentega atau minyak sayur.
+        6.	Tuang adonan pancake dalam wajan, sekitar 1/4 cup per pancake. Gunakan spatula untuk membentuk pancake bulat dan rata.
+        7.	Tutup wajan dengan penutup atau almunium foil dan masak pancake dengan api kecil hingga bagian bawahnya berwarna keemasan. Hal ini membutuhkan waktu sekitar 3-4 menit.
+        8.	Setelah bagian bawah pancake matang, balik pancake dengan hati-hati dan masak sisi lainnya hingga matang dan berwarna keemasan.
+        9.	Angkat pancake dari wajan dan letakkan di piring saji.
+        10.	Ulangi proses dengan adonan yang tersisa hingga semua pancake selesai dimasak.
+        11.	Sajikan Fluffy Souffle Pancakes segera dengan tambahan madu, sirup maple, potongan buah-buahan segar, atau taburan gula bubuk.
+    </string>
+    <string name="food_g">
+        Strawberry Sando
+
+        Bahan-bahan:
+        ●	8 irisan roti tawar putih
+        ●	200 gram stroberi segar, potong-potong
+        ●	200 gram whipped cream
+        ●	2 sendok makan gula pasir (opsional)
+        ●	Mentega, untuk melumuri roti
+        Cara membuat:
+        1.	Jika ingin menghasilkan whipped cream sendiri, kocok whipped cream dan gula pasir dengan mixer listrik hingga mengembang dan membentuk puncak yang lembut. Jika ingin lebih praktis, Anda juga dapat menggunakan whipped cream siap pakai yang telah tersedia di pasaran.
+        2.	Ambil dua irisan roti tawar putih dan lumuri permukaannya dengan mentega.
+        3.	Letakkan potongan stroberi di atas salah satu irisan roti tawar yang telah dilumuri mentega.
+        4.	Beri lapisan whipped cream di atas stroberi.
+        5.	Tutup dengan irisan roti tawar yang lain.
+        6.	Ulangi langkah 2-5 untuk membuat sandwich stroberi sisa.
+        7.	Potong sandwich stroberi menjadi bentuk persegi atau segitiga sesuai selera.
+        8.	Strawberry Sando siap disajikan. Anda dapat menambahkan hiasan potongan stroberi di atasnya jika diinginkan.
+
+    </string>
+    <string name="food_h">
+        nutella brownies :
+
+        Bahan-bahan:
+        ●	1/2 cup (113 gram) mentega tawar, lelehkan
+        ●	1 cup (200 gram) gula pasir
+        ●	2 butir telur
+        ●	1 sendok teh ekstrak vanila
+        ●	3/4 cup (90 gram) tepung terigu
+        ●	1/4 cup (30 gram) bubuk kakao
+        ●	1/4 sendok teh garam
+        ●	1/2 cup (150 gram) Nutella atau selai kacang cokelat
+        Cara membuat:
+        1.	Panaskan oven pada suhu 180 derajat Celsius. Siapkan loyang berukuran 20x20 cm dan alasi dengan kertas roti atau oleskan dengan mentega dan taburi tepung untuk mencegah lengket.
+        2.	Dalam mangkuk besar, campurkan mentega cair dan gula pasir. Aduk rata.
+        3.	Tambahkan telur satu per satu sambil terus mengaduk setelah setiap penambahan telur. Masukkan ekstrak vanila dan aduk rata.
+        4.	Ayak tepung terigu, bubuk kakao, dan garam ke dalam mangkuk. Aduk hingga tercampur rata dan membentuk adonan kental.
+        5.	Tuangkan setengah dari adonan brownies ke dalam loyang yang sudah disiapkan dan ratakan permukaannya.
+        6.	Panaskan Nutella dalam microwave selama beberapa detik hingga agak encer.
+        7.	Tuangkan Nutella di atas adonan brownies di loyang, lalu ratakan dengan spatula atau ujung
+        8.	Setelah meratakan Nutella di atas adonan brownies, tuangkan sisa adonan brownies di atas Nutella. Ratakan permukaannya dengan spatula.
+        9.	Panggang dalam oven yang telah dipanaskan pada suhu 180 derajat Celsius selama sekitar 25-30 menit, atau sampai tusuk gigi yang dimasukkan ke tengah brownies keluar bersih atau dengan remah-remah sedikit.
+        10.	Setelah matang, keluarkan brownies dari oven dan biarkan mendingin dalam loyang selama beberapa saat sebelum dipotong-potong.
+        11.	Potong-potong brownies menjadi persegi atau sesuai selera Anda.
+        12.	Nutella Brownies siap disajikan. Anda dapat menyajikannya dalam keadaan dingin atau hangat dengan taburan gula bubuk, irisan almond, atau toping lain sesuai selera.
+
+    </string>
+    <string name="food_i">
+        Chocolate Chip cookies :
+
+        Bahan-bahan:
+        ●	1 cup (226 gram) mentega tawar, suhu ruangan
+        ●	1 cup (200 gram) gula pasir
+        ●	1 cup (200 gram) gula cokelat
+        ●	2 butir telur
+        ●	1 sendok teh ekstrak vanila
+        ●	3 cup (360 gram) tepung terigu
+        ●	1 sendok teh baking soda
+        ●	1/2 sendok teh garam
+        ●	2 cup (340 gram) chocolate chips (pilih dark chocolate, susu, atau campuran sesuai selera)
+        Cara membuat:
+        1.	Panaskan oven pada suhu 180 derajat Celsius. Siapkan loyang dan alasi dengan kertas roti atau oleskan dengan mentega dan taburi tepung untuk mencegah lengket.
+        2.	Dalam mangkuk besar, kocok mentega, gula pasir, dan gula cokelat hingga lembut dan tercampur rata.
+        3.	Tambahkan telur satu per satu sambil terus mengocok setelah setiap penambahan. Tambahkan juga ekstrak vanila dan aduk rata.
+        4.	Ayak tepung terigu, baking soda, dan garam ke dalam mangkuk. Aduk hingga tercampur rata dan membentuk adonan kental.
+        5.	Tambahkan chocolate chips ke dalam adonan dan aduk rata menggunakan spatula.
+        6.	Ambil sejumput adonan menggunakan sendok atau scoop cookie, lalu letakkan di atas loyang dengan jarak yang cukup antar adonan karena akan mengembang saat dipanggang.
+        7.	Panggang dalam oven yang telah dipanaskan pada suhu 180 derajat Celsius selama sekitar 10-12 menit, atau sampai pinggiran cookies berwarna keemasan.
+        8.	Setelah matang, keluarkan loyang dari oven dan biarkan cookies mendingin dalam loyang selama beberapa menit sebelum dipindahkan ke rak pendingin untuk mendingin sepenuhnya.
+        9.	Ulangi proses dengan sisa adonan hingga habis.
+        10.	Chocolate Chip Cookies siap disajikan. Anda dapat menikmatinya dalam keadaan hangat atau dingin.
+
+    </string>
+    <string name="food_j">
+        Custard Pudding :
+
+        Bahan-bahan:
+        ●	4 butir telur
+        ●	1/2 cup (100 gram) gula pasir
+        ●	2 1/2 cup (600 ml) susu cair
+        ●	1 sendok teh ekstrak vanila
+        Cara membuat:
+        1.	Panaskan oven pada suhu 160 derajat Celsius.
+        2.	Dalam mangkuk besar, kocok telur dan gula pasir hingga gula larut dan campuran mengental.
+        3.	Tambahkan susu cair sedikit-sedikit ke dalam campuran telur sambil terus mengocok hingga tercampur rata. Pastikan untuk tidak mengocok terlalu kencang agar tidak ada banyak buih di permukaan.
+        4.	Tambahkan ekstrak vanila ke dalam campuran dan aduk rata.
+        5.	Saring campuran custard melalui saringan halus untuk memastikan konsistensi yang lembut.
+        6.	Tuangkan custard ke dalam ramekin atau cetakan custard yang telah dialasi dengan air panas (metode Bain-marie) hingga sekitar 80% penuh.
+        7.	Letakkan ramekin atau cetakan custard dalam loyang besar yang diisi dengan air panas hingga setengah tinggi ramekin.
+        8.	Panggang dalam oven yang telah dipanaskan pada suhu 160 derajat Celsius selama sekitar 40-50 menit, atau sampai permukaan custard mengeras dan gigi yang dimasukkan ke dalamnya keluar bersih.
+        9.	Setelah matang, angkat ramekin atau cetakan custard dari loyang air panas dan biarkan mendingin pada suhu ruangan.
+        10.	Setelah custard pudding benar-benar dingin, tutup ramekin dengan plastik wrap atau aluminium foil dan biarkan set di dalam lemari es selama beberapa jam atau semalaman untuk memberikan tekstur yang lebih kenyal.
+        11.	Untuk menyajikan, lepaskan pinggiran custard dari ramekin dengan pisau tajam, kemudian balik custard pudding ke piring saji.
+        12.	Sajikan custard pudding dingin sebagai hidangan penutup. Anda juga dapat menambahkan toping seperti buah-buahan segar, saus karamel, atau taburan cokelat serut.
+
+    </string>
+    <string name="food_k">
+        mini cheezecake :
+
+        Bahan-bahan:
+        ●	200 gram biskuit digestive atau biskuit graham, hancurkan
+        ●	80 gram mentega tawar, lelehkan
+        ●	250 gram cream cheese, suhu ruangan
+        ●	1/2 cup (100 gram) gula pasir
+        ●	2 butir telur
+        ●	1 sendok teh ekstrak vanila
+        ●	1/4 cup (60 ml) susu cair
+        ●	1 sendok makan tepung terigu
+        ●	Topping sesuai selera (misalnya, blueberry pie filling, saus stroberi, atau cokelat leleh)
+        Cara membuat:
+        1.	Panaskan oven pada suhu 160 derajat Celsius. Siapkan loyang muffin dengan paper cup liner.
+        2.	Campurkan biskuit hancur dan mentega leleh hingga tercampur rata. Bagi adonan biskuit ke dalam masing-masing paper cup liner dan tekan perlahan untuk membentuk lapisan dasar. Diamkan di lemari es selama beberapa menit untuk mengeras.
+        3.	Dalam mangkuk besar, kocok cream cheese dan gula pasir hingga lembut dan tercampur rata.
+        4.	Tambahkan telur satu per satu sambil terus mengocok setelah setiap penambahan. Tambahkan ekstrak vanila dan aduk rata.
+        5.	Masukkan susu cair sedikit-sedikit sambil terus mengocok hingga tercampur rata.
+        6.	Tambahkan tepung terigu dan aduk rata hingga adonan terlihat halus dan kental.
+        7.	Tuang adonan cheesecake ke atas lapisan biskuit dalam masing-masing paper cup liner hingga hampir penuh.
+        8.	Panggang dalam oven yang telah dipanaskan pada suhu 160 derajat Celsius selama sekitar 20-25 menit, atau sampai permukaan cheesecake mengeras dan gigi yang dimasukkan ke dalamnya keluar bersih.
+        9.	Setelah matang, keluarkan loyang muffin dari oven dan biarkan cheesecake mendingin dalam suhu ruangan.
+        10.	Setelah cheesecake benar-benar dingin, letakkan dalam lemari es selama beberapa jam atau semalaman untuk memberikan tekstur yang lebih padat.
+        11.	Sebelum disajikan, beri topping sesuai selera seperti blueberry pie filling, saus stroberi, atau cokelat leleh di atas setiap cheesecake.
+        12.	Sajikan Mini Cheesecake sebagai hidangan penutup yang lezat. Nikmati dalam keadaan dingin.
+
+    </string>
+    <string name="food_l">
+        spaghetti :
+
+        Bahan-bahan:
+        ●	250 gram spaghetti
+        ●	2 sendok makan minyak zaitun
+        ●	3 siung bawang putih, cincang halus
+        ●	1 buah bawang bombay, cincang halus
+        ●	200 gram daging sapi cincang
+        ●	1 kaleng tomat diced (200 gram)
+        ●	1 sendok makan pasta tomat
+        ●	1 sendok teh gula
+        ●	1 sendok teh oregano kering
+        ●	Garam secukupnya
+        ●	Merica hitam bubuk secukupnya
+        ●	Keju parmesan parut (opsional)
+        ●	Daun basil segar, untuk hiasan (opsional)
+        Cara membuat:
+        1.	Rebus spaghetti dalam air mendidih yang diberi sedikit garam sesuai petunjuk pada kemasan hingga al dente (sekitar 8-10 menit). Setelah matang, tiriskan spaghetti dan sisihkan.
+        2.	Panaskan minyak zaitun dalam wajan dengan api sedang. Tumis bawang putih dan bawang bombay hingga harum dan mulai berwarna kecokelatan.
+        3.	Tambahkan daging sapi cincang ke dalam wajan dan masak hingga berubah warna dan matang. Pastikan daging terpisah dengan sendok kayu atau spatula.
+        4.	Masukkan tomat diced, pasta tomat, gula, oregano kering, garam, dan merica hitam bubuk ke dalam wajan. Aduk rata dan biarkan saus mendidih.
+        5.	Kecilkan api dan masak saus dengan api kecil selama sekitar 15-20 menit agar bumbu meresap dan saus sedikit mengental.
+        6.	Setelah saus matang, tambahkan spaghetti yang sudah direbus ke dalam wajan. Aduk rata hingga spaghetti terbalut dengan saus.
+        7.	Angkat spaghetti dari wajan dan sajikan di piring saji.
+        8.	Taburi spaghetti dengan keju parmesan parut dan daun basil segar sebagai hiasan (opsional).
+
+    </string>
+    <string name="food_m">
+        seblak :
+
+        Bahan-bahan:
+        ●	200 gram ceker ayam
+        ●	100 gram mi instan (tanpa bumbu)
+        ●	200 ml air
+        ●	50 gram tauge (kecambah)
+        ●	3 buah bakso, iris tipis
+        ●	2 sendok makan minyak sayur
+        ●	3 siung bawang putih, cincang halus
+        ●	2 sendok makan saus tomat
+        ●	1 sendok makan saus cabai (sesuai selera pedas)
+        ●	1 sendok makan kecap manis
+        ●	1/2 sendok teh garam
+        ●	1/4 sendok teh merica bubuk
+        ●	Bumbu pelengkap (daun seledri, bawang goreng, jeruk nipis)
+        Cara membuat:
+        1.	Rebus ceker ayam dalam air mendidih selama 15-20 menit hingga ceker empuk. Tiriskan ceker dan potong menjadi bagian-bagian kecil.
+        2.	Panaskan minyak sayur dalam wajan atau panci besar.
+        3.	Tumis bawang putih hingga harum dan berwarna kecokelatan.
+        4.	Masukkan potongan ceker ayam ke dalam wajan dan masak hingga berubah warna dan matang.
+        5.	Tambahkan saus tomat, saus cabai, kecap manis, garam, dan merica bubuk. Aduk rata.
+        6.	Tuangkan air ke dalam wajan dan masak hingga mendidih.
+        7.	Masukkan mi instan ke dalam wajan dan rebus hingga mi matang.
+        8.	Tambahkan tauge dan irisan bakso. Aduk rata.
+        9.	Cicipi dan tambahkan garam atau bumbu lainnya sesuai dengan selera Anda.
+        10.	Sajikan seblak ceker dalam mangkuk saji dan hias dengan daun seledri, bawang goreng, dan perasan jeruk nipis.
+
+    </string>
+    <string name="food_n">
+        bubur Ayam:
+
+        Bahan-bahan:
+        ●	1/2 cup beras
+        ●	4-5 cangkir air
+        ●	Garam secukupnya
+        ●	Pilihan tambahan: gula, susu, kayu manis, dan topping sesuai selera (kacang, buah-buahan, madu, dll.)
+        Cara membuat:
+        1.	Cuci beras dengan air bersih hingga airnya jernih.
+        2.	Tuangkan beras ke dalam panci dan tambahkan air. Biarkan beras meresap dalam air selama 15-20 menit.
+        3.	Setelah beras meresap, panaskan panci dengan api sedang dan masak beras dengan airnya.
+        4.	Aduk sesekali untuk mencegah beras menempel pada dasar panci.
+        5.	Setelah mendidih, turunkan api menjadi sedang rendah dan biarkan bubur mendidih perlahan selama 30-40 menit. Aduk sesekali untuk memastikan bubur tidak lengket pada panci.
+        6.	Tambahkan garam secukupnya saat bubur hampir matang. Anda juga dapat menambahkan gula sesuai dengan selera Anda.
+        7.	Masak bubur hingga mencapai konsistensi yang diinginkan. Jika bubur terlalu kental, tambahkan air panas secukupnya. Jika terlalu encer, biarkan bubur terus mendidih hingga mendapatkan konsistensi yang diinginkan.
+        8.	Setelah bubur matang, tambahkan bahan tambahan sesuai selera Anda, seperti susu, kayu manis, atau topping seperti kacang, buah-buahan, madu, dll.
+        9.	Aduk rata dan masak bubur selama beberapa menit lagi agar bahan tambahan tercampur merata dan hangat.
+        10.	Angkat bubur dari panci dan sajikan dalam mangkuk. Anda dapat menambahkan topping tambahan sesuai selera.
+
+    </string>
+    <string name="food_o">
+        telur mata sapi :
+
+        Bahan-bahan:
+        ●	2 butir telur
+        ●	2 sendok makan minyak goreng
+        ●	Garam secukupnya
+        ●	Merica bubuk secukupnya
+        ●	Bahan tambahan sesuai selera (contoh: saus sambal, saus tomat, kecap, bawang goreng, dll.)
+        Cara membuat:
+        1.	Panaskan minyak goreng dalam wajan anti lengket dengan api sedang.
+        2.	Pecahkan telur satu per satu ke dalam mangkuk kecil. Pastikan kuning telur tetap utuh.
+        3.	Setelah minyak panas, tuangkan telur ke dalam wajan dengan hati-hati, satu per satu. Pastikan jarak antara telur cukup jauh agar tidak meleleh menjadi satu.
+        4.	Biarkan telur terus menggoreng dengan api sedang hingga putih telur matang dan kuning telur masih setengah matang.
+        5.	Bubuhi telur dengan garam dan merica secukupnya sesuai dengan selera Anda.
+        6.	Dengan menggunakan sendok atau spatula, siram minyak panas di atas kuning telur agar matang merata tanpa membalik telur. Anda juga dapat menambahkan sedikit minyak pada pinggiran kuning telur yang belum matang.
+        7.	Masak selama beberapa saat hingga kuning telur cukup matang sesuai selera Anda. Jika Anda menginginkan kuning telur yang lebih matang, tutup wajan dengan penutup selama beberapa saat.
+        8.	Angkat telur mata sapi dari wajan dengan hati-hati menggunakan spatula.
+        9.	Sajikan telur mata sapi dengan tambahan bahan sesuai selera, seperti saus sambal, saus tomat, kecap, bawang goreng, atau irisan daun bawang sebagai hiasan.
+
+    </string>
+    <string name="food_p">
+        waffle :
+
+        Bahan-bahan:
+        ●	1 ½ cup tepung terigu
+        ●	2 sendok teh baking powder
+        ●	2 sendok makan gula
+        ●	¼ sendok teh garam
+        ●	1 ¼ cup susu
+        ●	2 butir telur
+        ●	1 sendok teh ekstrak vanila
+        ●	4 sendok makan mentega, lelehkan
+        Cara membuat:
+        1.	Dalam mangkuk besar, campurkan tepung terigu, baking powder, gula, dan garam. Aduk rata.
+        2.	Di mangkuk terpisah, kocok susu, telur, dan ekstrak vanila hingga tercampur dengan baik.
+        3.	Tambahkan campuran susu ke dalam campuran tepung sedikit demi sedikit sambil terus diaduk hingga adonan tercampur secara homogen.
+        4.	Tuangkan mentega yang telah dilelehkan ke dalam adonan dan aduk rata.
+        5.	Panaskan waffle maker dan oleskan sedikit mentega atau minyak pada permukaan cetakan waffle.
+        6.	Tuangkan adonan ke dalam cetakan waffle sesuai dengan instruksi pada waffle maker Anda.
+        7.	Tutup waffle maker dan panggang waffle selama beberapa menit hingga berwarna keemasan dan matang.
+        8.	Angkat waffle dari waffle maker dan letakkan di atas rak pendingin atau piring.
+        9.	Ulangi proses panggang hingga adonan waffle habis.
+        10.	Sajikan waffle dengan pilihan topping favorit Anda seperti sirup maple, madu, whipped cream, buah-buahan segar, atau cokelat leleh.
+
+    </string>
+    <string name="food_q">
+        nasi goreng :
+
+        Bahan-bahan:
+        ●	2 piring nasi putih (nasi yang sudah dingin lebih baik)
+        ●	150 gram daging ayam, potong kecil-kecil
+        ●	100 gram udang, kupas kulitnya
+        ●	2 butir telur, kocok lepas
+        ●	2 siung bawang putih, cincang halus
+        ●	2 batang daun bawang, iris tipis
+        ●	2 sendok makan saus tiram
+        ●	1 sendok makan kecap manis
+        ●	1 sendok teh saus sambal (opsional, sesuai selera pedas)
+        ●	1 sendok teh garam
+        ●	1/2 sendok teh merica bubuk
+        ●	Minyak goreng secukupnya untuk menumis
+        Cara membuat:
+        1.	Panaskan sedikit minyak goreng dalam wajan atau wajan besar dengan api sedang.
+        2.	Tumis bawang putih hingga harum.
+        3.	Masukkan daging ayam ke dalam wajan dan masak hingga berubah warna dan matang. Kemudian, masukkan udang dan masak hingga udang berubah warna menjadi merah muda.
+        4.	Pindahkan daging ayam dan udang ke sisi wajan yang kosong.
+        5.	Tuangkan telur kocok ke sisi wajan yang kosong. Aduk-aduk telur hingga setengah matang.
+        6.	Campurkan daging ayam dan udang dengan telur setengah matang. Aduk rata.
+        7.	Tambahkan nasi putih ke dalam wajan dan aduk rata dengan bahan-bahan lainnya.
+        8.	Tambahkan saus tiram, kecap manis, saus sambal (jika digunakan), garam, dan merica bubuk. Aduk rata hingga semua bahan tercampur merata dan nasi terasa berwarna.
+        9.	Masak nasi goreng sambil terus diaduk selama beberapa menit hingga nasi terhangat dan bumbu meresap dengan baik.
+        10.	Tambahkan daun bawang ke dalam wajan dan aduk rata sebentar.
+        11.	Angkat nasi goreng dari wajan dan sajikan di piring saji.
+
+    </string>
+    <string name="food_r">
+        coffe :
+
+        Bahan-bahan:
+        ●	2 sendok makan bubuk kopi (sesuai dengan selera Anda, bisa menggunakan kopi instan atau biji kopi yang digiling)
+        ●	1 ½ cangkir air panas
+        ●	1-2 sendok teh gula (opsional)
+        ●	Susu (opsional)
+        Cara membuat:
+        1.	Panaskan air hingga mendidih.
+        2.	Masukkan bubuk kopi ke dalam cangkir atau gelas yang tahan panas.
+        3.	Tuangkan air panas ke atas bubuk kopi secara perlahan sambil diaduk. Pastikan bubuk kopi larut dalam air.
+        4.	Biarkan kopi meresap selama beberapa saat, sekitar 3-5 menit, untuk menghasilkan cita rasa yang lebih kaya. Anda dapat menyesuaikan waktu perendaman sesuai dengan tingkat kekuatan kopi yang Anda inginkan.
+        5.	Setelah perendaman, Anda dapat menambahkan gula sesuai dengan selera Anda. Aduk rata hingga gula larut.
+        6.	Jika Anda ingin menambahkan susu, tuangkan susu ke dalam kopi secukupnya sesuai dengan preferensi Anda. Aduk rata.
+        7.	Sekarang, kopi Anda siap disajikan. Anda dapat menikmatinya secara langsung atau menambahkan es batu jika ingin dinikmati dalam bentuk kopi dingin.
+        8.	Untuk variasi rasa, Anda juga dapat menambahkan sirup kopi, rempah-rempah seperti kayu manis atau vanila, atau bahkan cokelat serut sebagai hiasan.
+
+    </string>
+    <string name="food_s">
+        pudding :
+
+        Bahan-bahan:
+        ●	500 ml susu cair
+        ●	3 sendok makan tepung maizena
+        ●	3 sendok makan gula pasir
+        ●	1 sendok teh ekstrak vanila
+        ●	Bahan tambahan sesuai selera (contoh: buah potong, cokelat serut, kacang, dll.)
+        Cara membuat:
+        1.	Dalam panci, campurkan susu cair, tepung maizena, dan gula pasir. Aduk hingga tercampur dengan baik, pastikan tidak ada gumpalan.
+        2.	Panaskan panci dengan api sedang sambil terus diaduk hingga adonan mendidih dan mengental. Pastikan untuk terus mengaduk agar adonan tidak lengket dan tidak membentuk gumpalan.
+        3.	Setelah mengental, tambahkan ekstrak vanila ke dalam adonan. Aduk rata.
+        4.	Matikan api dan biarkan adonan puding sedikit mendingin.
+        5.	Siapkan wadah atau cetakan puding yang telah diolesi minyak agar mudah melepaskan puding setelah dingin.
+        6.	Tuangkan adonan puding ke dalam cetakan atau wadah secara merata.
+        7.	Tambahkan bahan tambahan sesuai selera Anda, seperti buah potong, cokelat serut, atau kacang. Anda dapat menyesuaikan tambahan sesuai dengan preferensi Anda.
+        8.	Dinginkan puding dalam lemari es selama beberapa jam hingga benar-benar mengeras.
+        9.	Setelah puding mengeras, keluarkan dari cetakan atau wadah dengan hati-hati.
+        10.	Sajikan puding dalam bentuk potongan atau potongan kecil sesuai dengan selera Anda.
+
+    </string>
+    <string name="food_t">
+        roti :
+
+        Bahan-bahan:
+        ●	500 gram tepung terigu
+        ●	2 sendok makan gula
+        ●	2 sendok teh ragi instan
+        ●	1 sendok teh garam
+        ●	250 ml air hangat
+        ●	3 sendok makan minyak sayur
+        ●	1 butir telur (opsional)
+        Cara membuat:
+        1.	Dalam mangkuk besar, campurkan tepung terigu, gula, ragi instan, dan garam. Aduk rata.
+        2.	Tambahkan air hangat secara bertahap sambil terus mengaduk menggunakan sendok atau mixer dengan kecepatan rendah.
+        3.	Jika menggunakan telur, pecahkan telur ke dalam mangkuk dan aduk hingga tercampur dengan baik.
+        4.	Tambahkan minyak sayur dan terus aduk hingga adonan terbentuk.
+        5.	Pindahkan adonan ke permukaan datar yang telah ditaburi tepung terigu. Uleni adonan dengan tangan selama sekitar 10-15 menit hingga adonan menjadi elastis dan tidak lengket.
+        6.	Letakkan adonan dalam mangkuk bersih dan olesi dengan sedikit minyak sayur. Tutup mangkuk dengan kain bersih atau plastik wrap. Biarkan adonan fermentasi selama sekitar 1 jam hingga mengembang dua kali lipat.
+        7.	Setelah adonan mengembang, kempiskan adonan dengan cara memukul-mukulnya atau tekan-tekan adonan secara lembut.
+        8.	Bagi adonan menjadi beberapa bagian sesuai dengan ukuran roti yang diinginkan. Bentuk masing-masing bagian adonan menjadi bulat atau sesuai dengan preferensi Anda.
+        9.	Letakkan adonan roti dalam loyang yang telah diolesi dengan sedikit minyak atau dilapisi kertas roti. Pastikan memberikan jarak yang cukup antara masing-masing roti.
+        10.	Tutup loyang dengan kain bersih atau plastik wrap dan biarkan adonan roti mengembang kembali selama sekitar 30-45 menit.
+        11.	Sementara itu, panaskan oven pada suhu 180 derajat Celsius.
+        12.	Setelah adonan roti mengembang, panggang roti dalam oven yang telah dipanaskan selama sekitar 20-25 menit atau hingga roti berwarna keemasan dan matang.
+        13.	Angkat roti dari oven dan biarkan dingin sebentar sebelum dipotong atau disajikan.
+
+    </string>
+    <string name="food_u">
+        seblak :
+
+        Bahan-bahan:
+        ●	100 gram kerupuk seblak
+        ●	100 gram mie instan
+        ●	200 ml air
+        ●	100 gram daging ayam, potong kecil-kecil
+        ●	50 gram kol, iris tipis
+        ●	50 gram tauge
+        ●	2 buah bakso, potong kecil-kecil
+        ●	2 siung bawang putih, cincang halus
+        ●	2 sendok makan saus tomat
+        ●	1 sendok makan saus sambal
+        ●	1 sendok teh garam
+        ●	1/2 sendok teh merica bubuk
+        ●	1 sendok teh kaldu ayam bubuk
+        ●	2 sendok makan minyak goreng
+        ●	Air secukupnya untuk merebus mie
+        Cara membuat:
+        1.	Rebus mie instan dalam air mendidih hingga matang. Tiriskan dan sisihkan.
+        2.	Panaskan minyak goreng dalam wajan. Tumis bawang putih hingga harum.
+        3.	Masukkan potongan ayam, bakso, kol, dan tauge ke dalam wajan. Aduk rata dan masak hingga ayam matang.
+        4.	Tambahkan saus tomat, saus sambal, garam, merica bubuk, dan kaldu ayam bubuk. Aduk rata hingga bumbu meresap.
+        5.	Tuangkan air ke dalam wajan dan biarkan mendidih.
+        6.	Masukkan kerupuk seblak ke dalam wajan. Aduk rata hingga kerupuk sedikit lembut.
+        7.	Tambahkan mie instan yang telah direbus ke dalam wajan. Aduk rata dan masak sebentar hingga semua bahan tercampur dan matang.
+        8.	Cicipi dan tambahkan garam atau bumbu lainnya sesuai selera Anda.
+        9.	Angkat Seblak dari wajan dan sajikan selagi hangat.
+
+    </string>
+    <string name="food_v">
+        ayam bakar :
+
+        Bahan-bahan:
+        ●	1 ekor ayam, potong menjadi beberapa bagian
+        ●	4 sendok makan kecap manis
+        ●	2 sendok makan minyak sayur
+        ●	3 siung bawang putih, cincang halus
+        ●	1 sendok makan air jeruk nipis
+        ●	1 sendok teh garam
+        ●	1/2 sendok teh merica bubuk
+        ●	Bumbu pelengkap (irisan jeruk nipis, daun kemangi, sambal, dll.)
+        Cara membuat:
+        1.	Campurkan kecap manis, minyak sayur, bawang putih cincang, air jeruk nipis, garam, dan merica bubuk dalam wadah. Aduk rata menjadi bumbu marinasi.
+        2.	Letakkan potongan ayam dalam wadah dan tuangkan bumbu marinasi di atasnya. Pastikan semua bagian ayam terendam dalam bumbu. Biarkan marinasi selama minimal 1 jam agar bumbu meresap dengan baik. Lebih lama proses marinasi akan memberikan rasa yang lebih kaya.
+        3.	Panaskan panggangan atau grill pan. Jika menggunakan panggangan, panaskan terlebih dahulu dan siapkan api sedang. Jika menggunakan grill pan, panaskan di atas kompor dengan api sedang.
+        4.	Panggang potongan ayam di atas panggangan atau grill pan yang telah dipanaskan. Panggang selama sekitar 10-15 menit pada setiap sisi atau hingga ayam matang sempurna dengan warna kecokelatan dan permukaan yang karamel.
+        5.	Selama proses pemanggangan, olesi ayam dengan sisa bumbu marinasi secara teratur untuk mempertahankan kelembaban dan memberikan rasa yang lebih kaya.
+        6.	Setelah matang, angkat ayam bakar dari panggangan atau grill pan. Sajikan panas dengan bumbu pelengkap seperti irisan jeruk nipis, daun kemangi, dan sambal.
+
+    </string>
+    <string name="food_w">
+        popcorn :
+
+        Bahan-bahan:
+        ●	1/2 cup biji jagung popcorn
+        ●	2 sendok makan minyak sayur
+        ●	Garam secukupnya (atau bumbu lainnya seperti keju parmesan, paprika, atau caramel)
+        Cara membuat:
+        1.	Panaskan minyak sayur dalam panci yang besar dengan penutup di atas api sedang.
+        2.	Tambahkan biji jagung popcorn ke dalam panci dan tutup rapat. Goyangkan panci secara perlahan-lahan untuk memastikan biji jagung tercampur dengan minyak.
+        3.	Biarkan panci di atas api dan terus menggoyang-goyangkan panci agar biji jagung tidak gosong. Jika menggunakan panci dengan penutup transparan, Anda dapat melihat popcorn mulai meletup-letup.
+        4.	Setelah suara letupan popcorn mulai berkurang, matikan api dan biarkan panci di atas kompor selama beberapa detik untuk memastikan semua popcorn meletup.
+        5.	Buka penutup panci dengan hati-hati, karena uap panas bisa keluar.
+        6.	Tambahkan garam atau bumbu lainnya sesuai dengan selera Anda. Aduk popcorn agar garam atau bumbu merata.
+        7.	Pindahkan popcorn ke dalam mangkuk saji dan biarkan dingin sebentar sebelum disajikan.
+
+    </string>
+    <string name="food_x">
+        potato :
+
+        Bahan-bahan:
+        ●	4 buah kentang, kupas dan rebus sampai empuk
+        ●	1/2 cup tepung terigu
+        ●	1/4 cup tepung roti (bisa diganti dengan tepung panir)
+        ●	1/4 cup keju parut
+        ●	2 sendok makan mentega
+        ●	1/2 sendok teh bubuk bawang putih
+        ●	1/2 sendok teh bubuk peterseli (opsional)
+        ●	Garam secukupnya
+        ●	Merica secukupnya
+        ●	Telur, dikocok lepas
+        ●	Minyak untuk menggoreng
+        Cara membuat:
+        1.	Setelah kentang direbus hingga empuk, tiriskan dan hancurkan dengan garpu atau tumbuk hingga halus.
+        2.	Tambahkan tepung terigu, tepung roti (atau tepung panir), keju parut, mentega, bubuk bawang putih, bubuk peterseli (jika digunakan), garam, dan merica. Aduk rata hingga semua bahan tercampur menjadi adonan yang kalis.
+        3.	Ambil sejumput adonan kentang, genggam dan bulatkan menjadi bola. Ulangi proses ini hingga adonan habis.
+        4.	Celupkan bola kentang ke dalam telur yang telah dikocok lepas, lalu gulingkan dalam tepung roti (atau tepung panir), pastikan permukaannya tertutup rata.
+        5.	Panaskan minyak dalam wajan atau penggorengan dengan api sedang.
+        6.	Goreng bola kentang dalam minyak panas hingga berwarna kecokelatan dan renyah. Angkat dengan penjepit dan tiriskan pada tisu dapur untuk menghilangkan minyak berlebih.
+        7.	Sajikan Potato Balls hangat sebagai camilan atau hidangan pembuka. Anda dapat menambahkan saus favorit sebagai pelengkap seperti saus tomat, saus mayones, atau saus sambal.
+
+    </string>
+    <string name="food_y">
+        beef :
+
+        ●	3 sendok makan kecap manis
+        ●	2 sendok makan saus soy (kecap asin)
+        ●	2 sendok makan minyak wijen
+        ●	2 siung bawang putih, cincang halus
+        ●	1 sendok makan gula merah, parut (opsional)
+        ●	Garam secukupnya
+        ●	Merica secukupnya
+        Cara membuat:
+        1.	Campurkan semua bahan bumbu marinasi dalam wadah. Aduk rata.
+        2.	Masukkan potongan daging sapi ke dalam wadah bumbu marinasi. Pastikan semua bagian daging terendam dalam bumbu. Biarkan marinasi selama minimal 1 jam agar bumbu meresap dengan baik. Lebih lama proses marinasi akan memberikan rasa yang lebih kaya.
+        3.	Siapkan tusuk sate yang telah direndam dalam air.
+        4.	Tusuk potongan daging sapi secara bergantian dengan potongan sayuran pada tusuk sate.
+        5.	Panaskan panggangan atau grill pan. Jika menggunakan panggangan, panaskan terlebih dahulu dan siapkan api sedang. Jika menggunakan grill pan, panaskan di atas kompor dengan api sedang.
+        6.	Panggang sate beef sayur di atas panggangan atau grill pan yang telah dipanaskan. Panggang hingga daging matang dan sayuran sedikit layu, sekitar 3-4 menit setiap sisi.
+        7.	Selama proses pemanggangan, olesi sate dengan sisa bumbu marinasi untuk mempertahankan kelembaban dan memberikan rasa yang lebih kaya.
+        8.	Setelah matang, angkat sate dari panggangan atau grill pan.
+        9.	Sajikan Sate Beef Sayur panas dengan nasi atau lontong, dan saus kacang atau saus sate sebagai pelengkap.
+
+    </string>
+    <string name="food_z">
+        brownies :
+
+        Bahan-bahan:
+        ●	200 gram dark chocolate (cokelat hitam), potong kecil-kecil
+        ●	150 gram mentega
+        ●	200 gram gula pasir
+        ●	3 butir telur
+        ●	1 sendok teh vanila ekstrak
+        ●	100 gram tepung terigu
+        ●	30 gram bubuk kakao
+        ●	1/4 sendok teh garam
+        ●	100 gram dark chocolate chips (opsional)
+        ●	Krim kocok atau es krim (untuk pelengkap, opsional)
+        Cara membuat:
+        1.	Panaskan oven hingga suhu 180 derajat Celsius. Siapkan loyang persegi dengan ukuran sekitar 20x20 cm, olesi dengan mentega, dan alasi dengan kertas roti.
+        2.	Lelehkan dark chocolate dan mentega dalam mangkuk tahan panas di atas panci dengan air mendidih (metode double boiler) atau dalam microwave dengan interval pendek dan diaduk setiap beberapa detik untuk mencegah cokelat terbakar. Setelah cokelat dan mentega meleleh, angkat dari panas dan biarkan sedikit mendingin.
+        3.	Dalam mangkuk terpisah, kocok telur dan gula pasir hingga mengental dan berwarna cerah. Tambahkan vanila ekstrak dan aduk rata.
+        4.	Tuangkan campuran cokelat yang sudah meleleh ke dalam adonan telur dan gula. Aduk rata.
+        5.	Dalam mangkuk terpisah, ayak tepung terigu, bubuk kakao, dan garam. Campurkan ke dalam adonan basah secara perlahan dan aduk hingga tercampur rata.
+        6.	Jika menggunakan dark chocolate chips, tambahkan ke dalam adonan dan aduk rata.
+        7.	Tuangkan adonan brownies ke dalam loyang yang sudah disiapkan dan ratakan permukaannya.
+        8.	Panggang dalam oven yang sudah dipanaskan selama 25-30 menit, atau hingga bagian atasnya mengeras dan permukaannya retak-retak. Jangan terlalu lama memanggang agar brownies tetap lembut di tengahnya.
+        9.	Setelah matang, keluarkan loyang dari oven dan biarkan brownies mendingin sebelum dipotong-potong.
+        10.	Sajikan brownies dengan krim kocok atau es krim sebagai pelengkap, jika diinginkan.
+
+    </string>
+    <string name="food_aa">
+        pretzel :
+
+        Bahan-bahan:
+        ●	2 1/4 cups tepung terigu serbaguna
+        ●	2 sendok teh ragi instan
+        ●	1 sendok teh garam
+        ●	1 sendok teh gula
+        ●	1 cup air hangat
+        ●	2 sendok makan mentega, dilelehkan
+        ●	1/4 cup baking soda
+        ●	2 cangkir air panas
+        ●	Garam kasar (untuk taburan)
+        ●	Bahan pelengkap opsional: mustard, saus keju, dll.
+        Cara membuat:
+        1.	Dalam mangkuk besar, campurkan tepung terigu, ragi instan, garam, dan gula. Aduk rata.
+        2.	Tambahkan air hangat dan mentega leleh ke dalam campuran tepung. Uleni adonan dengan tangan atau menggunakan mixer dengan pengaduk kait hingga adonan elastis dan tidak lengket, sekitar 5-7 menit.
+        3.	Letakkan adonan di dalam mangkuk yang diolesi minyak dan tutup dengan kain bersih. Biarkan adonan fermentasi selama sekitar 1 jam hingga mengembang dua kali lipat.
+        4.	Setelah adonan mengembang, letakkan adonan di atas permukaan yang diolesi sedikit minyak. Bagi adonan menjadi 8-10 bagian dan bulatkan masing-masing bagian menjadi bola.
+        5.	Panaskan oven hingga suhu 220 derajat Celsius.
+        6.	Dalam wadah yang dangkal, campurkan baking soda dengan air panas. Aduk hingga baking soda larut.
+        7.	Ambil bola adonan dan giling dengan tangan hingga membentuk batang sekitar 45 cm. Bentuk batang tersebut menjadi bentuk "U" dan saling tarik kedua ujung batang tersebut. Lalu, bawa kedua ujung batang tersebut ke arah bawah dan tekan di tengah hingga membentuk pretzel.
+        8.	Celupkan pretzel ke dalam larutan baking soda selama beberapa detik. Angkat dan letakkan di atas loyang yang diolesi dengan kertas roti.
+        9.	Lakukan langkah 7-8 untuk semua bola adonan yang tersisa.
+        10.	Taburi pretzel dengan garam kasar.
+        11.	Panggang pretzel di dalam oven yang sudah dipanaskan selama sekitar 12-15 menit atau hingga pretzel berwarna kecokelatan.
+        12.	Setelah matang, angkat pretzel dari oven dan biarkan sedikit mendingin sebelum disajikan.
+        13.	Sajikan pretzel hangat dengan mustard, saus keju, atau bahan pelengkap lain sesuai selera.
+
+    </string>
+    <string name="food_ab">
+        onion :
+
+        Bahan-bahan:
+        ●	2 buah bawang bombay besar
+        ●	1 1/2 cup tepung terigu
+        ●	1 sendok teh bubuk bawang putih
+        ●	1 sendok teh bubuk paprika
+        ●	1/2 sendok teh garam
+        ●	1/4 sendok teh merica bubuk
+        ●	1 1/4 cup air dingin
+        ●	Minyak untuk menggoreng
+        Cara membuat:
+        1.	Kupas bawang bombay dan potong membentuk cincin dengan ketebalan sekitar 1/2 cm. Pisahkan cincin-cincin bawang.
+        2.	Dalam mangkuk, campurkan tepung terigu, bubuk bawang putih, bubuk paprika, garam, dan merica bubuk. Aduk rata.
+        3.	Tambahkan air dingin sedikit demi sedikit sambil terus diaduk hingga membentuk adonan yang encer tetapi masih bisa menempel pada cincin bawang.
+        4.	Panaskan minyak dalam wajan atau penggorengan dengan api sedang.
+        5.	Celupkan cincin bawang ke dalam adonan tepung hingga terbalut rata. Pastikan setiap bagian cincin bawang tertutup oleh adonan tepung.
+        6.	Letakkan cincin bawang yang telah dibalut adonan tepung ke dalam minyak panas. Jangan terlalu banyak menumpuk cincin bawang agar proses penggorengan berjalan dengan baik.
+        7.	Goreng cincin bawang hingga berwarna kecokelatan dan renyah. Angkat dengan penjepit atau sendok berlubang dan tiriskan pada tisu dapur untuk menghilangkan minyak berlebih.
+        8.	Ulangi proses penggorengan hingga semua cincin bawang selesai digoreng.
+        9.	Sajikan Onion Rings panas sebagai camilan atau hidangan pembuka. Anda dapat menambahkan saus favorit sebagai pelengkap seperti saus barbekyu, saus tomat, atau saus mayones.
+
+    </string>
+    <string name="food_ac">
+        seblak :
+
+        Bahan-bahan:
+        ●	100 gram kerupuk seblak
+        ●	100 gram mie instan
+        ●	200 ml air
+        ●	100 gram daging ayam, potong kecil-kecil
+        ●	50 gram kol, iris tipis
+        ●	50 gram tauge
+        ●	2 buah bakso, potong kecil-kecil
+        ●	2 siung bawang putih, cincang halus
+        ●	2 sendok makan saus tomat
+        ●	1 sendok makan saus sambal
+        ●	1 sendok teh garam
+        ●	1/2 sendok teh merica bubuk
+        ●	1 sendok teh kaldu ayam bubuk
+        ●	2 sendok makan minyak goreng
+        ●	Air secukupnya untuk merebus mie
+        Cara membuat:
+        1.	Rebus mie instan dalam air mendidih hingga matang. Tiriskan dan sisihkan.
+        2.	Panaskan minyak goreng dalam wajan. Tumis bawang putih hingga harum.
+        3.	Masukkan potongan ayam, bakso, kol, dan tauge ke dalam wajan. Aduk rata dan masak hingga ayam matang.
+        4.	Tambahkan saus tomat, saus sambal, garam, merica bubuk, dan kaldu ayam bubuk. Aduk rata hingga bumbu meresap.
+        5.	Tuangkan air ke dalam wajan dan biarkan mendidih.
+        6.	Masukkan kerupuk seblak ke dalam wajan. Aduk rata hingga kerupuk sedikit lembut.
+        7.	Tambahkan mie instan yang telah direbus ke dalam wajan. Aduk rata dan masak sebentar hingga semua bahan tercampur dan matang.
+        8.	Cicipi dan tambahkan garam atau bumbu lainnya sesuai selera Anda.
+        9.	Angkat Seblak dari wajan dan sajikan selagi hangat.
+
+    </string>
+    <string name="food_ad">
+        buryam  :
+
+        Bahan-bahan:
+        ●	1 cup beras
+        ●	4 cup kaldu ayam (bisa menggunakan kaldu instan atau rebus tulang ayam)
+        ●	2 batang daun bawang, iris tipis
+        ●	2 cm jahe, memarkan
+        ●	2 siung bawang putih, cincang halus
+        ●	1 sendok makan minyak sayur
+        ●	Garam secukupnya
+        ●	Merica secukupnya
+        Bahan pelengkap (opsional):
+        ●	Daging ayam rebus, suwir-suwir
+        ●	Kerupuk
+        ●	Bawang merah goreng
+        ●	Daun seledri, iris tipis
+        ●	Kecap manis
+        ●	Sambal cabai (sesuai selera)
+        Cara membuat:
+        1.	Cuci beras dengan air bersih, lalu tiriskan.
+        2.	Panaskan minyak sayur dalam panci besar, tumis bawang putih dan jahe hingga harum.
+        3.	Masukkan beras ke dalam panci dan aduk rata dengan bawang putih dan jahe.
+        4.	Tuangkan kaldu ayam ke dalam panci, aduk rata, dan biarkan mendidih.
+        5.	Setelah mendidih, kecilkan api dan masak bubur dengan api kecil hingga beras menjadi lunak dan bubur kental. Aduk sesekali agar beras tidak lengket di dasar panci.
+        6.	Tambahkan garam dan merica secukupnya untuk memberi rasa. Aduk rata.
+        7.	Jika ingin menggunakan daging ayam sebagai pelengkap, rebus daging ayam hingga matang, angkat, dan suwir-suwir.
+        8.	Sajikan bubur ayam panas dengan pelengkap seperti suwiran ayam, daun bawang, kerupuk, bawang merah goreng, daun seledri, kecap manis, dan sambal cabai. Anda juga dapat menambahkan irisan telur rebus atau cakwe sebagai pelengkap lainnya.
+
+    </string>
+
+
+    <string name="ratting5">★★★★★</string>
+    <string name="ratting4">★★★★☆</string>
+    <string name="ratting3">★★★☆☆</string>
+    <string name="ratting2">★★☆☆☆</string>
+    <string name="ratting1">★☆☆☆☆</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+

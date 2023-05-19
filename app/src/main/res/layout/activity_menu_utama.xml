@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuUtama">
+
+    <TextView
+        android:id="@+id/utama"
+        android:layout_width="278dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/shape1"
+        android:backgroundTint="#F2A154"
+        android:gravity="center"
+        android:text="MENU UTAMA"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ayam"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/yambar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/utama"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtayam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Grilled Chicken"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/ayam"
+        app:layout_constraintStart_toStartOf="@+id/ayam"
+        app:layout_constraintTop_toBottomOf="@+id/ayam"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/beef"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/beef"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/utama"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtbeef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Beef Kofta Kebabs"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/beef"
+        app:layout_constraintStart_toStartOf="@+id/beef"
+        app:layout_constraintTop_toBottomOf="@+id/beef"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/teriyaki"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/teriyaki"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtayam"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtteriyaki"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Teriyaki Chicken"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/teriyaki"
+        app:layout_constraintStart_toStartOf="@+id/teriyaki"
+        app:layout_constraintTop_toBottomOf="@+id/teriyaki"
+        tools:ignore="TextSizeCheck,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/ramen"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/ramen"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbeef"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtramen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Tahini Miso Ramen"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/ramen"
+        app:layout_constraintStart_toStartOf="@+id/ramen"
+        app:layout_constraintTop_toBottomOf="@+id/ramen"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/spaghetti"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/spaghetti"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtteriyaki"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtspaghetti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Spaghetti Bolognese"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/spaghetti"
+        app:layout_constraintStart_toStartOf="@+id/spaghetti"
+        app:layout_constraintTop_toBottomOf="@+id/spaghetti"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/shrimp"
+        android:layout_width="137dp"
+        android:layout_height="127dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shrimp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtramen"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/txtshrimp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Baked Shrimp"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/shrimp"
+        app:layout_constraintStart_toStartOf="@+id/shrimp"
+        app:layout_constraintTop_toBottomOf="@+id/shrimp"
+        tools:ignore="TextSizeCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:id="@+id/app"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:elevation="16dp"
+        android:src="@drawable/backbutton"
+        android:textColor="@color/Orange"
+        android:textSize="26dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="21dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tipe"
+        android:background="@drawable/shape3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:elevation="2dp"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="30dp"
+        android:textAllCaps="true"
+        android:layout_marginTop="11dp"
+        android:text="Daftar Menu Sarapan"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/app">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_marginTop="20dp"
+                android:id="@+id/image_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="220dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/oatmeal"
+                android:paddingHorizontal="20px"
+                app:shapeAppearanceOverlay="@style/RoundCorner"/>
+
+            <TextView
+                android:id="@+id/heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="16dp"
+                android:layout_marginHorizontal="10dp"
+                android:padding="12dp"
+                android:text="Oatmeal"
+                android:textColor="@color/Orange"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/image_heading" />
+
+            <ImageView
+                android:id="@+id/btn_favo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/favo"
+                app:layout_constraintBottom_toTopOf="@+id/news"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/image_heading" />
+
+
+            <TextView
+                android:id="@+id/news"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineHeight="24dp"
+                android:layout_marginHorizontal="6dp"
+                android:paddingHorizontal="16dp"
+                android:text="@string/news_b"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:justificationMode="inter_word"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/heading" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

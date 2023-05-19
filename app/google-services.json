@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111558397125",
+    "project_id": "home-393a7",
+    "storage_bucket": "home-393a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111558397125:android:a0f4b4ae4a4985428734ac",
+        "android_client_info": {
+          "package_name": "com.nadif.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111558397125-b0pvh2acrfir95i47to20j6ll8d12n8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6D86Sfl2_GuQJHLFOsCP1BiXWodH5GV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111558397125-b0pvh2acrfir95i47to20j6ll8d12n8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

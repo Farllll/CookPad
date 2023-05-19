@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="50dp"
+        android:text="Create"
+        android:fontFamily="@font/raleway"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="30dp"
+        android:text="Account"
+        android:fontFamily="@font/raleway"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/text1" />
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="60dp"
+        android:text="Email"
+        android:fontFamily="@font/poppinsm"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/text3" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:background="@drawable/edittextr"
+        android:hint="Enter Email"
+        android:fontFamily="@font/poppinsm"
+        android:minHeight="48dp"
+        android:padding="30px"
+        android:textSize="14dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/username" />
+
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="70dp"
+        android:text="Password"
+        android:fontFamily="@font/poppinsm"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/email" />
+
+
+
+    <EditText
+        android:id="@+id/pass"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:background="@drawable/edittextr"
+        android:hint="Password"
+        android:fontFamily="@font/poppinsm"
+        android:minHeight="48dp"
+        android:padding="35px"
+        android:textSize="14dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text5" />
+
+
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="70dp"
+        android:text="Confrim Password"
+        android:fontFamily="@font/poppinsm"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/pass" />
+
+    <EditText
+        android:id="@+id/cpass"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:background="@drawable/edittextr"
+        android:hint="Password"
+        android:fontFamily="@font/poppinsm"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:padding="35px"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text6" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100px"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edittextr"
+        android:text="Register"
+        android:fontFamily="@font/poppinsm"
+        android:textSize="14dp"
+        app:backgroundTint="#F2A154"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cpass" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

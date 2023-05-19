@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:id="@+id/scrollable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!--android:layout_height="565px"-->
+
+            <com.denzcoskun.imageslider.ImageSlider
+                android:layout_width="match_parent"
+                android:layout_height="720px"
+                android:id="@+id/imageSlider"
+                app:iss_auto_cycle="true"
+                app:iss_delay="1"
+                android:background="@drawable/oatmeal"
+                app:iss_corner_radius="2"
+                app:iss_selected_dot="@drawable/default_selected_dot"
+                app:iss_unselected_dot="@drawable/default_unselected_dot"
+                app:iss_period="3000"
+                tools:ignore="MissingConstraints" />
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/gambar1"-->
+            <!--                android:src="@drawable/seblak2"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="720px"-->
+            <!--                app:layout_constraintTop_toTopOf="parent"/>-->
+
+<!--            <ImageView-->
+<!--                android:elevation="5dp"-->
+<!--                android:id="@+id/settings"-->
+<!--                android:layout_width="32dp"-->
+<!--                android:layout_height="32dp"-->
+<!--                android:layout_margin="42px"-->
+<!--                android:src="@drawable/setting"-->
+<!--                app:layout_constraintEnd_toEndOf="parent"-->
+<!--                app:layout_constraintTop_toTopOf="@+id/imageSlider"-->
+<!--                android:shadowColor="@color/black"-->
+<!--                android:shadowDx="1"-->
+<!--                android:shadowDy="1"-->
+<!--                android:shadowRadius="10"/>-->
+
+            <!--            <TextView-->
+            <!--                android:id="@+id/text1"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginHorizontal="40px"-->
+            <!--                android:text="Seblak"-->
+            <!--                android:textColor="@color/white"-->
+            <!--                android:textSize="20dp"-->
+            <!--                android:textStyle="bold"-->
+            <!--                android:shadowColor="@color/black"-->
+            <!--                android:shadowDx="1"-->
+            <!--                android:shadowDy="1"-->
+            <!--                android:shadowRadius="10"-->
+            <!--                app:layout_constraintBottom_toTopOf="@+id/text2"-->
+            <!--                app:layout_constraintEnd_toEndOf="parent"/>-->
+
+            <!--            <TextView-->
+            <!--                android:id="@+id/text2"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:text="18 menit"-->
+            <!--                android:textSize="18dp"-->
+            <!--                android:textStyle="bold"-->
+            <!--                android:layout_marginBottom="30dp"-->
+            <!--                android:textColor="@color/white"-->
+            <!--                android:shadowColor="@color/black"-->
+            <!--                android:shadowDx="1"-->
+            <!--                android:shadowDy="1"-->
+            <!--                android:shadowRadius="10"-->
+            <!--                android:layout_marginHorizontal="40px"-->
+            <!--                app:layout_constraintBottom_toBottomOf="@+id/imageSlider"-->
+            <!--                app:layout_constraintEnd_toEndOf="parent"/>-->
+
+            <androidx.appcompat.widget.SearchView
+                android:id="@+id/search"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                app:layout_constraintTop_toBottomOf="@+id/imageSlider"
+                android:layout_marginVertical="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:padding="10dp"
+                android:background="@drawable/shape"/>
+
+
+            <!--            box1-->
+            <RelativeLayout
+                android:id="@+id/box1self"
+                android:layout_width="180px"
+                android:layout_height="180px"
+                android:layout_marginHorizontal="36dp"
+                android:layout_marginVertical="17dp"
+                android:background="@drawable/shape1"
+                android:elevation="5dp"
+                android:outlineAmbientShadowColor="@color/black"
+                android:padding="2dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/search">
+
+                <ImageView
+                    android:id="@+id/titleImage"
+                    android:layout_width="85px"
+                    android:layout_height="85px"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/croissant" />
+
+                <TextView
+                    android:id="@+id/titlename"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/titleImage"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:text="Utama"
+                    android:textSize="29px"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+
+            <!--            box2-->
+            <RelativeLayout
+                android:id="@+id/box2self"
+                android:layout_width="180px"
+                android:layout_height="180px"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginVertical="17dp"
+                android:background="@drawable/shape1"
+                android:elevation="5dp"
+                android:outlineAmbientShadowColor="@color/black"
+                android:padding="2dp"
+                app:layout_constraintStart_toEndOf="@id/box1self"
+                app:layout_constraintTop_toBottomOf="@+id/search">
+
+                <ImageView
+                    android:id="@+id/titleImage2"
+                    android:layout_width="85px"
+                    android:layout_height="85px"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/croissant" />
+
+                <TextView
+                    android:id="@+id/titlename2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/titleImage2"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:text="Sarapan"
+                    android:textSize="29px"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+
+            <!--            box1-->
+            <RelativeLayout
+                android:id="@+id/box3self"
+                android:layout_width="180px"
+                android:layout_height="180px"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginVertical="17dp"
+                android:background="@drawable/shape1"
+                android:elevation="5dp"
+                android:outlineAmbientShadowColor="@color/black"
+                android:padding="2dp"
+                app:layout_constraintStart_toEndOf="@id/box2self"
+                app:layout_constraintTop_toBottomOf="@+id/search">
+
+                <ImageView
+                    android:id="@+id/titleImage3"
+                    android:layout_width="85px"
+                    android:layout_height="85px"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/croissant" />
+
+                <TextView
+                    android:id="@+id/titlename3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/titleImage3"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:text="Dessert"
+                    android:textSize="29px"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+
+            <!--            box4-->
+            <RelativeLayout
+                android:id="@+id/box4self"
+                android:layout_width="180px"
+                android:layout_height="180px"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginVertical="17dp"
+                android:background="@drawable/shape1"
+                android:elevation="5dp"
+                android:outlineAmbientShadowColor="@color/black"
+                android:padding="2dp"
+                app:layout_constraintStart_toEndOf="@id/box3self"
+                app:layout_constraintTop_toBottomOf="@+id/search">
+
+                <ImageView
+                    android:id="@+id/titleImage4"
+                    android:layout_width="85px"
+                    android:layout_height="85px"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/croissant" />
+
+                <TextView
+                    android:id="@+id/titlename4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/titleImage4"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:text="Snack"
+                    android:textSize="29px"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/box1"
+                android:visibility="invisible"
+                android:layout_width="match_parent"
+                android:layout_height="230px"
+                android:layout_gravity="center"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingHorizontal="10dp"
+                android:layout_marginVertical="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/search"
+                tools:listitem="@layout/list_box1" />
+
+
+            <TextView
+                android:id="@+id/menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="40dp"
+                android:shadowColor="@color/brown"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="3"
+                android:layout_marginTop="10dp"
+                android:text="Menu Rekomendasi"
+                android:textColor="@color/black"
+                android:textSize="35px"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/box1" />
+
+            <TextView
+                android:id="@+id/all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="40dp"
+                android:shadowColor="@color/brown"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="3"
+                android:text="Lebih Banyak  ->"
+                android:textColor="@color/Orange"
+                android:textSize="35px"
+                android:layout_marginTop="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/box1" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/box2"
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:layout_gravity="center"
+                android:layout_marginVertical="10dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingHorizontal="10dp"
+                app:layout_constraintTop_toBottomOf="@+id/all"
+                tools:ignore="SpeakableTextPresentCheck"
+                tools:listitem="@layout/list_box2" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="40dp"
+                android:layout_marginTop="8dp"
+                android:shadowColor="@color/brown"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="3"
+                android:text="Informasi lain"
+                android:textColor="@color/black"
+                android:textSize="35px"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/box2" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/box3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="60px"
+                android:paddingHorizontal="10dp"
+                app:layout_constraintTop_toBottomOf="@+id/info"
+                tools:listitem="@layout/list_recommended" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
